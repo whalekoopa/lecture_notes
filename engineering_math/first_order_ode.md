@@ -24,10 +24,4 @@ $$
 \frac{dy}{dx} = g(x)h(y)
 $$
 
-$
-\frac{1}{h(y)}dy = g(x)dx
-$
--> 적분:
-$
-\int \frac{1}{h(y)}dy = \int g(x)dx + C
-$
+$\frac{1}{h(y)}dy = g(x)dx$ -> 적분: $\int \frac{1}{h(y)}dy = \int g(x)dx + C$
