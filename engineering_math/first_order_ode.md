@@ -24,4 +24,22 @@ $$
 \frac{dy}{dx} = g(x)h(y)
 $$
 
-$\frac{1}{h(y)}dy = g(x)dx$ -> 적분: $\int \frac{1}{h(y)}dy = \int g(x)dx + C$
+### 해 구하는 법
+
+$$\frac{1}{h(y)}dy = g(x)dx$$
+
+$$
+\int \frac{1}{h(y)}dy = \int g(x)dx + C
+$$
+
+---
+## 2. 동차형
+
+### 형태 
+
+$$
+\frac{dy}{dx} = f(\frac{y}{x})
+$$
+
+이때, $\frac{y}{x} = u$로 치환 
+
